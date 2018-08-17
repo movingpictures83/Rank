@@ -1,0 +1,2 @@
+Prefix plugins/Rank/example/
+Plugin Rank inputfile abundN.csv outputfile abundN.ranks.csv
