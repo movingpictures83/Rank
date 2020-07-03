@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV (set of samples and measurements)
 # Output: CSV (set of samples and ranks)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin that takes as input a CSV file with rows representing
 samples and columns representing entities.  Entry (i, j) represents
